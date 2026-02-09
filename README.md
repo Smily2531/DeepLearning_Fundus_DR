@@ -1,5 +1,5 @@
 🎥Demo Video
-[Watch Demo Video]([https://drive.google.com/uc?export=download&id=YOUR_FILE_ID](https://drive.google.com/file/d/1IXfuCTzVBveESOMuqrYycPx3vBaAFveU/view?usp=sharing))
+[Watch Demo Video](https://drive.google.com/file/d/1IXfuCTzVBveESOMuqrYycPx3vBaAFveU/view?usp=sharing)
 
 🩺 Deep Learning Fundus Image Analysis
 
